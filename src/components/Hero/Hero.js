@@ -15,7 +15,7 @@ const Hero = (props) => (
         I am a Third Year Computer Engineering student at The University of British Columbia, Vancouver.<br />
         I am open to discuss new opportunities and am looking to secure an internship in the Summer of 2022.
       </SectionText>
-      <Button onClick = {() => window.location = "https://github.com/harshil-patel11/harshil-patel11"}> Learn More </Button>
+      <Button onClick = {() => window.location = "#about"}> Learn More </Button>
     </LeftSection>
   </Section>
 );
