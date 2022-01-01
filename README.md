@@ -2,7 +2,7 @@
 
 Portfolio Website for Harshil Rajesh Patel.
 
-- This is a personal project that I implemented with help from [JavaScript Mastery's Portfolio Website Tutorial] (https://www.youtube.com/watch?v=OPaLnMw2i_0&t=3129s).
+- This is a personal project that I implemented with help from [JavaScript Mastery's Portfolio Website Tutorial](https://www.youtube.com/watch?v=OPaLnMw2i_0&t=3129s).
 - The website is made using Next Js and React Js.
 - It contains a basic summary of my journey in coding, links to my technical projects, some technologies that I have gained experience with, and ways to contact me.
 - As of now, the website can only be hosted locally, on https://localhost/3000 as I have not purchased a domain and a subscription to a hosting service.
